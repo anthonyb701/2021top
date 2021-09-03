@@ -15,3 +15,5 @@ window.addEventListener("load", function() {
       element.appendChild(charElem);
     }
   }
+
+  // hello world
